@@ -7,9 +7,9 @@ Copy the above URL and paste it on your search bar to get the raw data of Classi
 
 Page -1 & Page -2 of the Power BI report from the Sales- Overview Dashboard are below:
 
-![Image](https://github.com/user-attachments/assets/21e2e904-e888-4fbd-980a-2235890dc5a5)
+![Image](https://github.com/user-attachments/assets/dee4249a-3ca9-44af-b56f-bc4f4ece7935)
 
-![Image](https://github.com/user-attachments/assets/c8862a70-b892-4c4c-aa1f-7a0ef96dd263)
+![Image](https://github.com/user-attachments/assets/21e2e904-e888-4fbd-980a-2235890dc5a5)
 
 The report is basically based on the dataset given below: 
 
