@@ -11,7 +11,7 @@ Page -1 (SALES / NET PROFIT) & Page -2 of the Power BI report from the Sales- Ov
 ![Image](https://github.com/user-attachments/assets/dee4249a-3ca9-44af-b56f-bc4f4ece7935)
 
 *SALES*
-![Image](https://github.com/user-attachments/assets/515b1089-6577-4516-b4ed-cd40436b4e8d)
+![Image](https://github.com/user-attachments/assets/400af0e6-8993-4959-81f0-2dbc904272d9)
 
 ![Image](https://github.com/user-attachments/assets/21e2e904-e888-4fbd-980a-2235890dc5a5)
 
