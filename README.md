@@ -5,9 +5,13 @@ https://github.com/saikatgayen/Sales-overview/blob/main/classicModels.pbix
 
 Copy the above URL and paste it on your search bar to get the raw data of Classic Models from Prower BI.
 
-Page -1 & Page -2 of the Power BI report from the Sales- Overview Dashboard are below:
+Page -1 (SALES / NET PROFIT) & Page -2 of the Power BI report from the Sales- Overview Dashboard are below:
 
+*NET PROFIT*
 ![Image](https://github.com/user-attachments/assets/dee4249a-3ca9-44af-b56f-bc4f4ece7935)
+
+*SALES*
+![Image](https://github.com/user-attachments/assets/515b1089-6577-4516-b4ed-cd40436b4e8d)
 
 ![Image](https://github.com/user-attachments/assets/21e2e904-e888-4fbd-980a-2235890dc5a5)
 
