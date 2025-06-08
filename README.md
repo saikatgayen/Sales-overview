@@ -52,5 +52,4 @@ Here are all the Screenshots of this .xlsx file, and additional graphs and data 
 
 Here, I have transformed the RAW dataset into normalized tables, and all the graphs are already in the .xlsx file. However, even after that, I have transformed the organized data into great reports using the Power BI tool.
 
-*For now, that's all. Soon I will try to import my SQL queries that helped me with the .xlsx files*
 
